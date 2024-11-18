@@ -22,7 +22,7 @@
 
 	main {
 		height: calc(100% - 100px);
-		width: 1200px;
+		max-width: 1200px;
 		margin: 100px auto 0;
 		padding: 16px;
 		background-color: #ffffff;

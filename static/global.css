@@ -1,0 +1,12 @@
+:root {
+  font-family: 'Nunito', sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f5f5f5;
+  margin: 0;
+}
